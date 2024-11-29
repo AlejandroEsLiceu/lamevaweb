@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Bienvenido a mi sitio web"
+title: "Bienvenido a mi primer sitio web"
 ---
 
 # Hola Mundo
 
-Este es un ejemplo de un sitio web creado con Jekyll y Markdown en GitHub Pages.
+Este es mi primer sitio web creado con GitHub Pages y Markdown.
