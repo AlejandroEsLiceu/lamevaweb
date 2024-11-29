@@ -1,0 +1,5 @@
+title: Mi sitio web
+description: Una página web hecha con Jekyll y Markdown
+baseurl: "/"
+url: "https://AlejandroEsLiceu.github.io"
+theme: jekyll-theme-cayman
